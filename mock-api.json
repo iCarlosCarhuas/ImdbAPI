@@ -12,7 +12,7 @@
       "id": "2",
       "titulo": "The Dark Knight",
       "descripcion": "Batman enfrenta su mayor desafío cuando el Joker causa el caos en Ciudad Gótica. Un thriller lleno de acción, justicia y dilemas morales.",
-      "rate": 9,
+      "rate": 9.0,
       "imagenUrl": "https://m.media-amazon.com/images/I/51K8ouYrHeL._AC_SY679_.jpg",
       "idGenero": 2
     },
@@ -79,9 +79,6 @@
       "rate": 9.2,
       "imagenUrl": "https://m.media-amazon.com/images/I/51rGGpJ+4UL._AC_SY679_.jpg",
       "idGenero": 8
-    },
-    {
-      "id": "23aa"
     }
   ],
   "generos": [
