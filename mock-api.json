@@ -1,0 +1,137 @@
+{
+  "peliculas": [
+    {
+      "id": "1",
+      "titulo": "Inception",
+      "descripcion": "Un ladrón que roba secretos corporativos a través del uso de tecnología de sueño compartido recibe la tarea inversa de plantar una idea en la mente de un director ejecutivo.",
+      "rate": 8.8,
+      "imagenUrl": "https://m.media-amazon.com/images/I/51nbVEuw1HL._AC_SY679_.jpg",
+      "idGenero": 1
+    },
+    {
+      "id": "2",
+      "titulo": "The Dark Knight",
+      "descripcion": "Batman enfrenta su mayor desafío cuando el Joker causa el caos en Ciudad Gótica. Un thriller lleno de acción, justicia y dilemas morales.",
+      "rate": 9,
+      "imagenUrl": "https://m.media-amazon.com/images/I/51K8ouYrHeL._AC_SY679_.jpg",
+      "idGenero": 2
+    },
+    {
+      "id": "3",
+      "titulo": "Interstellar",
+      "descripcion": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar el futuro de la humanidad.",
+      "rate": 8.6,
+      "imagenUrl": "https://m.media-amazon.com/images/I/81wZ0yR0l-L._AC_SY679_.jpg",
+      "idGenero": 3
+    },
+    {
+      "id": "4",
+      "titulo": "Avatar",
+      "descripcion": "Un exmarine parapléjico es enviado a la luna Pandora, donde se debate entre seguir las órdenes de la Tierra o proteger a su nueva familia alienígena.",
+      "rate": 7.9,
+      "imagenUrl": "https://m.media-amazon.com/images/I/71BLkdqVxzL._AC_SY679_.jpg",
+      "idGenero": 4
+    },
+    {
+      "id": "5",
+      "titulo": "Joker",
+      "descripcion": "Arthur Fleck, un comediante fallido, se convierte en uno de los criminales más temidos de Ciudad Gótica.",
+      "rate": 8.5,
+      "imagenUrl": "https://m.media-amazon.com/images/I/81xJ7cUuQvL._AC_SY679_.jpg",
+      "idGenero": 5
+    },
+    {
+      "id": "6",
+      "titulo": "Avengers: Endgame",
+      "descripcion": "Los Vengadores restantes deben unirse una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
+      "rate": 8.4,
+      "imagenUrl": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg",
+      "idGenero": 4
+    },
+    {
+      "id": "7",
+      "titulo": "Titanic",
+      "descripcion": "Un joven artista y una mujer de alta sociedad se enamoran a bordo del Titanic, el transatlántico más famoso de la historia.",
+      "rate": 7.8,
+      "imagenUrl": "https://m.media-amazon.com/images/I/61n6M+u3W2L._AC_SY679_.jpg",
+      "idGenero": 6
+    },
+    {
+      "id": "8",
+      "titulo": "The Matrix",
+      "descripcion": "Un hacker descubre que la realidad que conoce es una simulación creada por máquinas para controlar a la humanidad.",
+      "rate": 8.7,
+      "imagenUrl": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_SY679_.jpg",
+      "idGenero": 3
+    },
+    {
+      "id": "9",
+      "titulo": "Gladiator",
+      "descripcion": "Un general romano traicionado se convierte en gladiador y busca venganza contra el corrupto emperador que asesinó a su familia.",
+      "rate": 8.5,
+      "imagenUrl": "https://m.media-amazon.com/images/I/71xBLRBYOiL._AC_SY679_.jpg",
+      "idGenero": 7
+    },
+    {
+      "id": "10",
+      "titulo": "The Godfather",
+      "descripcion": "La crónica de la familia Corleone, una de las más poderosas del crimen organizado en Estados Unidos.",
+      "rate": 9.2,
+      "imagenUrl": "https://m.media-amazon.com/images/I/51rGGpJ+4UL._AC_SY679_.jpg",
+      "idGenero": 8
+    },
+    {
+      "id": "23aa"
+    }
+  ],
+  "generos": [
+    {
+      "id": "1",
+      "nombre": "Ciencia Ficción"
+    },
+    {
+      "id": "2",
+      "nombre": "Acción"
+    },
+    {
+      "id": "3",
+      "nombre": "Aventura"
+    },
+    {
+      "id": "4",
+      "nombre": "Fantasía"
+    },
+    {
+      "id": "5",
+      "nombre": "Drama"
+    },
+    {
+      "id": "6",
+      "nombre": "Romance"
+    },
+    {
+      "id": "7",
+      "nombre": "Histórica"
+    },
+    {
+      "id": "8",
+      "nombre": "Crimen"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@imdbclone.com",
+      "password": "admin123",
+      "rol": "Administrador"
+    },
+    {
+      "id": "2",
+      "name": "Carlos",
+      "email": "carlos@cibertec.pe",
+      "password": "12345",
+      "rol": "Usuario"
+    }
+  ]
+}
