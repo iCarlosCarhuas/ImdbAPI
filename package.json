@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "json-server --watch mock-api.json --port 8080"
+    "start": "json-server --watch pelicula-db.json --port 8080"
   }
 }
