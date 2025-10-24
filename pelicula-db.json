@@ -92,53 +92,25 @@
     }
   ],
   "generos": [
-    {
-      "id": 1,
-      "nombre": "Ciencia Ficción"
-    },
-    {
-      "id": 2,
-      "nombre": "Acción"
-    },
-    {
-      "id": 3,
-      "nombre": "Aventura"
-    },
-    {
-      "id": 4,
-      "nombre": "Fantasía"
-    },
-    {
-      "id": 5,
-      "nombre": "Drama"
-    },
-    {
-      "id": 6,
-      "nombre": "Romance"
-    },
-    {
-      "id": 7,
-      "nombre": "Histórica"
-    },
-    {
-      "id": 8,
-      "nombre": "Crimen"
-    }
+    { "id": 1, "nombre": "Ciencia Ficción" },
+    { "id": 2, "nombre": "Acción" },
+    { "id": 3, "nombre": "Aventura" },
+    { "id": 4, "nombre": "Fantasía" },
+    { "id": 5, "nombre": "Drama" },
+    { "id": 6, "nombre": "Romance" },
+    { "id": 7, "nombre": "Histórica" },
+    { "id": 8, "nombre": "Crimen" }
   ],
   "usuarios": [
-    {
-      "id": 1,
-      "name": "Admin",
-      "email": "admin@imdbclone.com",
-      "password": "admin123",
-      "rol": "Admin"
-    },
-    {
-      "id": 2,
-      "name": "Carlos",
-      "email": "carlos@cibertec.pe",
-      "password": "12345",
-      "rol": "User"
-    }
+    { "id": 1, "name": "Admin", "email": "admin@imdbclone.com", "password": "admin123", "rol": "Admin" },
+    { "id": 2, "name": "Carlos", "email": "carlos@cibertec.pe", "password": "12345", "rol": "User" },
+    { "id": 3, "name": "Kiara", "email": "kiara@imdbclone.com", "password": "kiara2025", "rol": "User" },
+    { "id": 4, "name": "Sofía", "email": "sofia@cinefans.com", "password": "sofia123", "rol": "User" },
+    { "id": 5, "name": "Miguel", "email": "miguel@cinepro.com", "password": "miguel321", "rol": "User" },
+    { "id": 6, "name": "Lucía", "email": "lucia@filmstudio.com", "password": "lucia987", "rol": "Admin" },
+    { "id": 7, "name": "Andrés", "email": "andres@imdbclone.com", "password": "andres2025", "rol": "User" },
+    { "id": 8, "name": "Valentina", "email": "valentina@cineplus.com", "password": "valen456", "rol": "User" },
+    { "id": 9, "name": "Daniel", "email": "daniel@cinehub.com", "password": "daniel654", "rol": "User" },
+    { "id": 10, "name": "Mariana", "email": "mariana@moviesapp.com", "password": "mariana111", "rol": "User" }
   ]
 }
