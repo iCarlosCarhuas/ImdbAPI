@@ -6,7 +6,8 @@
       "descripcion": "Un ladrón que roba secretos corporativos a través del uso de tecnología de sueño compartido recibe la tarea inversa de plantar una idea en la mente de un director ejecutivo.",
       "rate": 8.8,
       "imagenUrl": "https://m.media-amazon.com/images/I/51nbVEuw1HL._AC_SY679_.jpg",
-      "idGenero": 1
+      "idGenero": 1,
+      "autor": "Christopher Nolan"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "descripcion": "Batman enfrenta su mayor desafío cuando el Joker causa el caos en Ciudad Gótica. Un thriller lleno de acción, justicia y dilemas morales.",
       "rate": 9.0,
       "imagenUrl": "https://m.media-amazon.com/images/I/51K8ouYrHeL._AC_SY679_.jpg",
-      "idGenero": 2
+      "idGenero": 2,
+      "autor": "Christopher Nolan"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "descripcion": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar el futuro de la humanidad.",
       "rate": 8.6,
       "imagenUrl": "https://m.media-amazon.com/images/I/81wZ0yR0l-L._AC_SY679_.jpg",
-      "idGenero": 3
+      "idGenero": 3,
+      "autor": "Christopher Nolan"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "descripcion": "Un exmarine parapléjico es enviado a la luna Pandora, donde se debate entre seguir las órdenes de la Tierra o proteger a su nueva familia alienígena.",
       "rate": 7.9,
       "imagenUrl": "https://m.media-amazon.com/images/I/71BLkdqVxzL._AC_SY679_.jpg",
-      "idGenero": 4
+      "idGenero": 4,
+      "autor": "James Cameron"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "descripcion": "Arthur Fleck, un comediante fallido, se convierte en uno de los criminales más temidos de Ciudad Gótica.",
       "rate": 8.5,
       "imagenUrl": "https://m.media-amazon.com/images/I/81xJ7cUuQvL._AC_SY679_.jpg",
-      "idGenero": 5
+      "idGenero": 5,
+      "autor": "Todd Phillips"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "descripcion": "Los Vengadores restantes deben unirse una vez más para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
       "rate": 8.4,
       "imagenUrl": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SY679_.jpg",
-      "idGenero": 4
+      "idGenero": 4,
+      "autor": "Anthony y Joe Russo"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "descripcion": "Un joven artista y una mujer de alta sociedad se enamoran a bordo del Titanic, el transatlántico más famoso de la historia.",
       "rate": 7.8,
       "imagenUrl": "https://m.media-amazon.com/images/I/61n6M+u3W2L._AC_SY679_.jpg",
-      "idGenero": 6
+      "idGenero": 6,
+      "autor": "James Cameron"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "descripcion": "Un hacker descubre que la realidad que conoce es una simulación creada por máquinas para controlar a la humanidad.",
       "rate": 8.7,
       "imagenUrl": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_SY679_.jpg",
-      "idGenero": 3
+      "idGenero": 3,
+      "autor": "Lana y Lilly Wachowski"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "descripcion": "Un general romano traicionado se convierte en gladiador y busca venganza contra el corrupto emperador que asesinó a su familia.",
       "rate": 8.5,
       "imagenUrl": "https://m.media-amazon.com/images/I/71xBLRBYOiL._AC_SY679_.jpg",
-      "idGenero": 7
+      "idGenero": 7,
+      "autor": "Ridley Scott"
     },
     {
       "id": 10,
@@ -78,7 +87,8 @@
       "descripcion": "La crónica de la familia Corleone, una de las más poderosas del crimen organizado en Estados Unidos.",
       "rate": 9.2,
       "imagenUrl": "https://m.media-amazon.com/images/I/51rGGpJ+4UL._AC_SY679_.jpg",
-      "idGenero": 8
+      "idGenero": 8,
+      "autor": "Francis Ford Coppola"
     }
   ],
   "generos": [
