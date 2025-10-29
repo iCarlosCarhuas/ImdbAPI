@@ -114,16 +114,16 @@
     { "id": 10, "name": "Mariana", "email": "mariana@moviesapp.com", "password": "mariana111", "rol": "User" }
   ],
   "peliculaFavoritas": [
-    { "idUsuario": 2, "idPelicula": 1 ,"calificacion": 4},
-    { "idUsuario": 2, "idPelicula": 3 ,"calificacion": 5},
-    { "idUsuario": 3, "idPelicula": 2 ,"calificacion": 5},
-    { "idUsuario": 4, "idPelicula": 5 ,"calificacion": 4},
-    { "idUsuario": 5, "idPelicula": 4 ,"calificacion": 3},
-    { "idUsuario": 6, "idPelicula": 6 ,"calificacion": 5},
-    { "idUsuario": 7, "idPelicula": 7 ,"calificacion": 4},
-    { "idUsuario": 8, "idPelicula": 8 ,"calificacion": 5},
-    { "idUsuario": 9, "idPelicula": 9 ,"calificacion": 4},
-    { "idUsuario": 10, "idPelicula": 10 ,"calificacion": 5}
-
+    {"id":1, "idUsuario": 2, "idPelicula": 1 ,"calificacion": 4},
+    {"id":2, "idUsuario": 3, "idPelicula": 2 ,"calificacion": 5},
+    {"id":3, "idUsuario": 4, "idPelicula": 3 ,"calificacion": 4},
+    {"id":4, "idUsuario": 5, "idPelicula": 4 ,"calificacion": 3},
+    {"id":5, "idUsuario": 6, "idPelicula": 5 ,"calificacion": 5},
+    {"id":6, "idUsuario": 7, "idPelicula": 6 ,"calificacion": 4},
+    {"id":7, "idUsuario": 8, "idPelicula": 7 ,"calificacion": 3},
+    {"id":8, "idUsuario": 9, "idPelicula": 8 ,"calificacion": 5},
+    {"id":9, "idUsuario": 10, "idPelicula": 9 ,"calificacion": 4},
+    {"id":10, "idUsuario": 2, "idPelicula": 10 ,"calificacion": 5}
+    
   ]
 }
