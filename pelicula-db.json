@@ -113,17 +113,16 @@
     { "id": 9, "name": "Daniel", "email": "daniel@cinehub.com", "password": "daniel654", "rol": "User" },
     { "id": 10, "name": "Mariana", "email": "mariana@moviesapp.com", "password": "mariana111", "rol": "User" }
   ],
-  "peliculaFavoritas": [
-    {"id":1, "idUsuario": 2, "idPelicula": 1 ,"calificacion": 4},
-    {"id":2, "idUsuario": 3, "idPelicula": 2 ,"calificacion": 5},
-    {"id":3, "idUsuario": 4, "idPelicula": 3 ,"calificacion": 4},
-    {"id":4, "idUsuario": 5, "idPelicula": 4 ,"calificacion": 3},
-    {"id":5, "idUsuario": 6, "idPelicula": 5 ,"calificacion": 5},
-    {"id":6, "idUsuario": 7, "idPelicula": 6 ,"calificacion": 4},
-    {"id":7, "idUsuario": 8, "idPelicula": 7 ,"calificacion": 3},
-    {"id":8, "idUsuario": 9, "idPelicula": 8 ,"calificacion": 5},
-    {"id":9, "idUsuario": 10, "idPelicula": 9 ,"calificacion": 4},
-    {"id":10, "idUsuario": 2, "idPelicula": 10 ,"calificacion": 5}
-    
+  "peliculaFavoritas": [  
+    {"id":1, "idUsuario": 2, "idPelicula": 1 ,"calificacion": 4 , "comentario": "Excelente película con una trama intrigante."},
+    {"id":2, "idUsuario": 3, "idPelicula": 2 ,"calificacion": 5 , "comentario": "Una obra maestra del cine de superhéroes."},
+    {"id":3, "idUsuario": 4, "idPelicula": 3 ,"calificacion": 4 , "comentario": "Impresionante visualmente y emocionalmente impactante."},
+    {"id":4, "idUsuario": 5, "idPelicula": 4 ,"calificacion": 3 , "comentario": "Buena película, pero esperaba más desarrollo de personajes."},
+    {"id":5, "idUsuario": 6, "idPelicula": 5 ,"calificacion": 5 , "comentario": "Actuación fenomenal y una historia cautivadora."},
+    {"id":6, "idUsuario": 7, "idPelicula": 6 ,"calificacion": 4 , "comentario": "Gran conclusión para la saga de los Vengadores."},
+    {"id":7, "idUsuario": 8, "idPelicula": 7 ,"calificacion": 3 , "comentario": "Una historia de amor clásica, pero un poco larga."},
+    {"id":8, "idUsuario": 9, "idPelicula": 8 ,"calificacion": 5 , "comentario": "Revolucionaria y emocionante, un clásico de la ciencia ficción."},
+    {"id":9, "idUsuario": 10, "idPelicula": 9 ,"calificacion": 4 , "comentario": "Intensa y bien actuada, una gran película histórica."},
+    {"id":10, "idUsuario": 2, "idPelicula": 10 ,"calificacion": 5, "comentario": "Una película que ha marcado la historia del cine."}
   ]
 }
